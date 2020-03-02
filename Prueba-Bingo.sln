@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prueba-Bingo", "Prueba-Bingo\Prueba-Bingo.vcxproj", "{95B9E4E6-5A41-434A-8DA6-30E8F5DC21FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B9E4E6-5A41-434A-8DA6-30E8F5DC21FD}.Debug|x64.ActiveCfg = Debug|x64
+		{95B9E4E6-5A41-434A-8DA6-30E8F5DC21FD}.Debug|x64.Build.0 = Debug|x64
+		{95B9E4E6-5A41-434A-8DA6-30E8F5DC21FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{95B9E4E6-5A41-434A-8DA6-30E8F5DC21FD}.Debug|x86.Build.0 = Debug|Win32
+		{95B9E4E6-5A41-434A-8DA6-30E8F5DC21FD}.Release|x64.ActiveCfg = Release|x64
+		{95B9E4E6-5A41-434A-8DA6-30E8F5DC21FD}.Release|x64.Build.0 = Release|x64
+		{95B9E4E6-5A41-434A-8DA6-30E8F5DC21FD}.Release|x86.ActiveCfg = Release|Win32
+		{95B9E4E6-5A41-434A-8DA6-30E8F5DC21FD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F710DC6-E735-4A4E-B488-DDBEF06BB788}
+	EndGlobalSection
+EndGlobal
